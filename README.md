@@ -1,0 +1,2 @@
+# smartContents
+smartContents
